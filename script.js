@@ -3,7 +3,7 @@
 function name(params) { 
 	for(let i=0;i<param.length();i++){
 		if(param.indexOf(param.charAt(i))==param.lastIndexOf(param.charAt())){
-			alert(i);
+			alert(params.charAt(i));
 			break;
 		}
 	}
