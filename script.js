@@ -1,13 +1,13 @@
 //your JS code here. If required.
 
-function name(params) { 
-	for(let i=0;i<param.length();i++){
-		if(param.indexOf(param.charAt(i))==param.lastIndexOf(param.charAt())){
-			alert(params.charAt(i));
+function s(str1) { 
+	for(let i=0;i<str1.length();i++){
+		if(param.indexOf(sr1.charAt(i))==str1.lastIndexOf(str1.charAt())){
+			alert(str1.charAt(i));
 			break;
 		}
 	}
 }
 
  let str = promt("Enter a String");
-alert(name(str));
+alert(s(str));
